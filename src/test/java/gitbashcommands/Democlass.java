@@ -9,7 +9,7 @@ public class Democlass {
 		
 		
 	}
-	public vod register() {
+	public void register() {
 		System.out.println("register is sucessfully");
 	}
 
