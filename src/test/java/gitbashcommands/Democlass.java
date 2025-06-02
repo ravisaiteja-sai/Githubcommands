@@ -12,5 +12,8 @@ public class Democlass {
 	public void register() {
 		System.out.println("register is sucessfully");
 	}
+	public void m1() {
+		System.out.println("m1 run is sucessfully");
+	}
 
 }
